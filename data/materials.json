@@ -7,7 +7,7 @@
       "price": "5500",
       "unit": "м²",
       "description": "Высококачественная брусчатка хайтек из мрамора. Толщина мрамора 4 см.",
-      "image": "https://images.unsplash.com/photo-1565008447742-97f6f38c985c?w=400&h=300&fit=crop"
+      "image": "data/hitech_mramor.jpg"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "price": "4500",
       "unit": "м²",
       "description": "Высококачественная бесцветная брусчатка хайтек. Толщина хайтек 4 см.",
-      "image": "hitech_bescvet.jpg"
+      "image": "data/hitech_bescvet.jpg"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "price": "5500",
       "unit": "м²",
       "description": "Брусчатка Тасқала из мрамора. Толщина Тасқала мрамора 4 см.",
-      "image": "taskala_mramor.jpg"
+      "image": "data/taskala_mramor.jpg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "price": "4500",
       "unit": "м²",
       "description": "Бесцветная брусчатка Тасқала. Толщина 4 см.",
-      "image": "taskala_bescvet.jpg"
+      "image": "data/taskala_bescvet.jpg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "price": "5000",
       "unit": "м²",
       "description": "Высококачественная цветная брусчатка прокурор. Толщина брусчатки 4 см.",
-      "image": "prokuror_cvet.jpg"
+      "image": "data/prokuror_cvet.jpg"
     }
   ]
 }
