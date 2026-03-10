@@ -44,6 +44,87 @@
       "unit": "м²",
       "description": "Высококачественная цветная брусчатка прокурор. Толщина брусчатки 4 см.",
       "image": "data/prokuror_cvet.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Астана бесцветный",
+      "category": "paving",
+      "price": "4500",
+      "unit": "м²",
+      "description": "Высококачественная брусчатка Астана. Толщина брусчатки 4 см.",
+      "image": "data/astana_bescvet.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Астана цветной",
+      "category": "paving",
+      "price": "5000",
+      "unit": "м²",
+      "description": "Высококачественная цветная брусчатка Астана. Толщина брусчатки 4 см.",
+      "image": "data/astana_cvet.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Бордюр гладкий",
+      "category": "paving",
+      "price": "2000",
+      "unit": "м²",
+      "description": "Высококачественный гладкий бордюр.",
+      "image": "data/bordur_glad.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Бордюр полосатый",
+      "category": "paving",
+      "price": "2000",
+      "unit": "м²",
+      "description": "Высококачественный полосатый бордюр.",
+      "image": "data/bordur_polo.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Каменный цветок мрамор",
+      "category": "paving",
+      "price": "5500",
+      "unit": "м²",
+      "description": "Высококачественная каменная брусчатка цветок из мрамора. Толщина брусчатки 4 см.",
+      "image": "data/camencvet_mramor.png"
+    },
+    {
+      "id": 11,
+      "name": "Каменный цветок цветной",
+      "category": "paving",
+      "price": "5500",
+      "unit": "м²",
+      "description": "Высококачественная цветная каменная брусчатка цветок. Толщина брусчатки 4 см.",
+      "image": "data/camencvet_cvet.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Лабиринт мрамор цветной",
+      "category": "paving",
+      "price": "6000",
+      "unit": "м²",
+      "description": "Цветная брусчатка лабиринт из мрамора. Толщина брусчатки 4 см.",
+      "image": "data/labirint_cvet.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Лабиринт мрамор бесцветный",
+      "category": "paving",
+      "price": "6000",
+      "unit": "м²",
+      "description": "Бесцветная брусчатка лабиринт из мрамора. Толщина брусчатки 4 см.",
+      "image": "data/labirint_bescvet.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Прокурор бесцветный",
+      "category": "paving",
+      "price": "4500",
+      "unit": "м²",
+      "description": "Высококачественная бесцветная брусчатка прокурор. Толщина брусчатки 4 см.",
+      "image": "data/prokuror_bescvet.jpg"
     }
   ]
 }
