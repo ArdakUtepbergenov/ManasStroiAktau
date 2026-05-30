@@ -38,24 +38,6 @@
     },
     {
       "id": 5,
-      "name": "Бордюр гладкий",
-      "category": "paving",
-      "price": "2000",
-      "unit": "шт",
-      "description": "Высококачественный гладкий бордюр.",
-      "image": "data/bordur_glad.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Бордюр полосатый",
-      "category": "paving",
-      "price": "2000",
-      "unit": "шт",
-      "description": "Высококачественный полосатый бордюр.",
-      "image": "data/bordur_polo.jpg"
-    },
-    {
-      "id": 7,
       "name": "Каменный цветок мрамор",
       "category": "paving",
       "price": "5500",
@@ -64,7 +46,7 @@
       "image": "data/camencvet_mramor.jpg"
     },
     {
-      "id": 8,
+      "id": 6,
       "name": "Хайтек цветной комбинация",
       "category": "paving",
       "price": "5000",
@@ -73,7 +55,7 @@
       "image": "data/hitech.jpg"
     },
     {
-      "id": 9,
+      "id": 7,
       "name": "Астана",
       "category": "paving",
       "price": "4500",
@@ -82,7 +64,7 @@
       "image": "data/astana.jpg"
     },
     {
-      "id": 10,
+      "id": 8,
       "name": "Тасқала мрамор",
       "category": "paving",
       "price": "5500",
@@ -91,7 +73,7 @@
       "image": "data/taskala_mramor2.jpg"
     },
     {
-      "id": 11,
+      "id": 9,
       "name": "Прокурор однотонный",
       "category": "paving",
       "price": "5000",
@@ -100,7 +82,7 @@
       "image": "data/prokuror_odnoton.jpg"
     },
     {
-      "id": 12,
+      "id": 10,
       "name": "Каменный цветок мрамор",
       "category": "paving",
       "price": "5500",
@@ -109,7 +91,7 @@
       "image": "data/camencvet_mramor2.jpg"
     },
     {
-      "id": 13,
+      "id": 11,
       "name": "Каменный цветок мрамор",
       "category": "paving",
       "price": "5500",
@@ -118,7 +100,7 @@
       "image": "data/camencvet_mramor3.jpg"
     },
     {
-      "id": 14,
+      "id": 12,
       "name": "Хайтек мрамор",
       "category": "paving",
       "price": "5500",
@@ -128,7 +110,7 @@
     }
     ,
     {
-      "id": 15,
+      "id": 13,
       "name": "Тасқала цветной",
       "category": "paving",
       "price": "5000",
